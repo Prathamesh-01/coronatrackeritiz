@@ -1,7 +1,7 @@
 const path = require('path');
 const express = require('express');
 const app = express();
-const publicPath = path.join(__dirname, '../coronatracker', 'public');
+const publicPath = path.join(__dirname, 'public');
 // console.log(path.join(publicPath, 'index.html'));
 // const path = require('../CoronaTrackerItis-master/')
 
